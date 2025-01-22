@@ -52,7 +52,3 @@ Did you find this information useful, then give it a star
 References 
 -------------
   1.https://www.mathwarehouse.com/monty-hall-simulation-online/ 
-
-Credits
------------
-All the credits to [kalebu](github.com/kalebu) 
